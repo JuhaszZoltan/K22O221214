@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BukkMaraton2019", "BukkMaraton2019\BukkMaraton2019.csproj", "{8B499726-18EC-4112-BFF9-51DF14C9ED8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BukkMaraton2019GUI", "BukkMaraton2019GUI\BukkMaraton2019GUI.csproj", "{B95A0A64-6CCB-4CB7-A86E-CBFD40808324}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B499726-18EC-4112-BFF9-51DF14C9ED8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B499726-18EC-4112-BFF9-51DF14C9ED8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B499726-18EC-4112-BFF9-51DF14C9ED8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B499726-18EC-4112-BFF9-51DF14C9ED8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B95A0A64-6CCB-4CB7-A86E-CBFD40808324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B95A0A64-6CCB-4CB7-A86E-CBFD40808324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B95A0A64-6CCB-4CB7-A86E-CBFD40808324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B95A0A64-6CCB-4CB7-A86E-CBFD40808324}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DF4B071-7DD4-4BB8-9E02-CFFF9E0EE11C}
+	EndGlobalSection
+EndGlobal
